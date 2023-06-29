@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "LaughStorage",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "LaughStorage",
+			"Data Owner Country/Region": "China",
+			"Data Owner Industry": "N/A",
+			"Website": "https://github.com/FurkanGozukara/Sentiment-Analysis",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 29 Jun 2023 06:54:31 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 29 Jun 2023 06:54:31 GMT"
+		}
+	}
+}
