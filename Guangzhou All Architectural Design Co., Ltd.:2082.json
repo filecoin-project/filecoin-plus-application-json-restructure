@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "Guangzhou All Architectural Design Co., Ltd.",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Guangzhou All Architectural Design Co., Ltd.",
+			"Data Owner Country/Region": "China",
+			"Data Owner Industry": "N/A",
+			"Website": "http://www.a-ll.cn/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Tue, 04 Jul 2023 02:58:03 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Tue, 04 Jul 2023 02:58:03 GMT"
+		}
+	}
+}
