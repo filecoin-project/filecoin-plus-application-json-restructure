@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "NIH - National Institute of Health",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "NIH - National Institute of Health",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "https://www.nih.gov/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Tue, 25 Jul 2023 07:25:23 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Tue, 25 Jul 2023 07:25:23 GMT"
+		}
+	}
+}
