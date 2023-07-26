@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "NOAA; 4DN-DCIC; NWGSC; NRC; UBC",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "NOAA; 4DN-DCIC; NWGSC; NRC; UBC",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "http://www.noaa.gov/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Wed, 26 Jul 2023 09:56:15 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Wed, 26 Jul 2023 09:56:15 GMT"
+		}
+	}
+}
