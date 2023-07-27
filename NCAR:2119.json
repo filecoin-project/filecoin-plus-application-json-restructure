@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "NCAR",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "NCAR",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "https://www.ucar.edu/terms-of-use/data",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 27 Jul 2023 07:41:38 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 27 Jul 2023 07:41:38 GMT"
+		}
+	}
+}
