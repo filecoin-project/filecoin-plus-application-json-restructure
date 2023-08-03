@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "Beijing Black Horse Art Photography Company",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Beijing Black Horse Art Photography Company",
+			"Data Owner Country/Region": "China",
+			"Data Owner Industry": "N/A",
+			"Website": "N/A",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 03 Aug 2023 14:01:29 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 03 Aug 2023 14:01:29 GMT"
+		}
+	}
+}
