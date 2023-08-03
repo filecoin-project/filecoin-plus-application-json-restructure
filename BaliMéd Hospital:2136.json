@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "BaliMéd Hospital",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "BaliMéd Hospital",
+			"Data Owner Country/Region": "Indonesia",
+			"Data Owner Industry": "N/A",
+			"Website": "https://balimedhospital.co.id/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 03 Aug 2023 13:00:15 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 03 Aug 2023 13:00:15 GMT"
+		}
+	}
+}
