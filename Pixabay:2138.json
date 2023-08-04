@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "Pixabay",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Pixabay",
+			"Data Owner Country/Region": "Germany",
+			"Data Owner Industry": "N/A",
+			"Website": "https://pixabay.com/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Fri, 04 Aug 2023 06:16:22 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Fri, 04 Aug 2023 06:16:22 GMT"
+		}
+	}
+}
