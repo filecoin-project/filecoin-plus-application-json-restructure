@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "Genome Ark",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Genome Ark",
+			"Data Owner Country/Region": "China",
+			"Data Owner Industry": "N/A",
+			"Website": "https://vertebrategenomesproject.org",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 10 Aug 2023 06:32:28 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 10 Aug 2023 06:32:28 GMT"
+		}
+	}
+}
