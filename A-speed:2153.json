@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "e-fil",
+	"Project Id": 0,
+	"Datacap Applicant": "A-speed",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "A-speed",
+			"Data Owner Country/Region": "Hong Kong",
+			"Data Owner Industry": "N/A",
+			"Website": "[ https://www.a-speed.net/]( https://www.a-speed.net/)",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Tue, 15 Aug 2023 09:11:44 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Tue, 15 Aug 2023 09:11:44 GMT"
+		}
+	}
+}
