@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "NASA/USGS",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "NASA/USGS",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "[https://www.usgs.gov/landsat-missions/landsat-9](https://www.usgs.gov/landsat-missions/landsat-9)",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 17 Aug 2023 16:01:09 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 17 Aug 2023 16:01:09 GMT"
+		}
+	}
+}
