@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "6BLOCK LLC ",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "6BLOCK LLC ",
+			"Data Owner Country/Region": "American Samoa",
+			"Data Owner Industry": "N/A",
+			"Website": "https://6block.com/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Tue, 29 Aug 2023 03:41:50 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Tue, 29 Aug 2023 03:41:50 GMT"
+		}
+	}
+}
