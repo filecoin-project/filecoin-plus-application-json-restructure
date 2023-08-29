@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "NOAA",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "NOAA",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "https://vlab.noaa.gov/web/mdl/nbm",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Tue, 29 Aug 2023 11:24:14 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Tue, 29 Aug 2023 11:24:14 GMT"
+		}
+	}
+}
