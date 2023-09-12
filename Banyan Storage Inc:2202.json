@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "e-fil",
+	"Project Id": 0,
+	"Datacap Applicant": "Banyan Storage Inc",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Banyan Storage Inc",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "[https://banyan.computer](https://banyan.computer)",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Tue, 12 Sep 2023 17:40:52 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Tue, 12 Sep 2023 17:40:52 GMT"
+		}
+	}
+}
