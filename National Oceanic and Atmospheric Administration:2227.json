@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "National Oceanic and Atmospheric Administration",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "National Oceanic and Atmospheric Administration",
+			"Data Owner Country/Region": "Afghanistan",
+			"Data Owner Industry": "N/A",
+			"Website": "https://registry.opendata.aws/noaa-gefs/ https://registry.opendata.aws/noaa-hrrr-pds https://registry.opendata.aws/noaa-gefs",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Sun, 08 Oct 2023 06:39:56 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Sun, 08 Oct 2023 06:39:56 GMT"
+		}
+	}
+}
