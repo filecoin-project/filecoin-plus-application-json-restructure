@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "AIGC CHAIN",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "AIGC CHAIN",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "https://www.aigcchain.io/home",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Tue, 10 Oct 2023 08:25:03 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Tue, 10 Oct 2023 08:25:03 GMT"
+		}
+	}
+}
