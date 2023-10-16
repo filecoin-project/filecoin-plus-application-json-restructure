@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "The lotus team - FilDev",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "The lotus team - FilDev",
+			"Data Owner Country/Region": "Poland",
+			"Data Owner Industry": "N/A",
+			"Website": "https://github.com/lotus-web3",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Mon, 16 Oct 2023 09:14:47 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Mon, 16 Oct 2023 09:14:47 GMT"
+		}
+	}
+}
