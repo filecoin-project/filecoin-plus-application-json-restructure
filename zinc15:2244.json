@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "zinc15",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "zinc15",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "https://registry.opendata.aws/zinc15/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 19 Oct 2023 03:35:15 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 19 Oct 2023 03:35:15 GMT"
+		}
+	}
+}
