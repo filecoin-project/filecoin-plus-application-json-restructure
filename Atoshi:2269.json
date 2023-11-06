@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "Atoshi",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Atoshi",
+			"Data Owner Country/Region": "Cayman Islands",
+			"Data Owner Industry": "N/A",
+			"Website": "https://atoshi.org/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Mon, 06 Nov 2023 11:32:49 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Mon, 06 Nov 2023 11:32:49 GMT"
+		}
+	}
+}
