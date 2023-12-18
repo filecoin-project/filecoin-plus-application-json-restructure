@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "Alchemist Data Center",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Alchemist Data Center",
+			"Data Owner Country/Region": "Malaysia",
+			"Data Owner Industry": "N/A",
+			"Website": "[https://alchemistfix.com](https://alchemistfix.com)",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Mon, 18 Dec 2023 09:09:45 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Mon, 18 Dec 2023 09:09:45 GMT"
+		}
+	}
+}
