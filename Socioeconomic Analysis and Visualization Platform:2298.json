@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "Socioeconomic Analysis and Visualization Platform",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Socioeconomic Analysis and Visualization Platform",
+			"Data Owner Country/Region": "Hong Kong",
+			"Data Owner Industry": "N/A",
+			"Website": "[https://github.com/savp-cloud/site](https://github.com/savp-cloud/site)",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Sat, 23 Dec 2023 09:01:06 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Sat, 23 Dec 2023 09:01:06 GMT"
+		}
+	}
+}
