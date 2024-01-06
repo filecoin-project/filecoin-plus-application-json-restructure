@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "NOAA",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "NOAA",
+			"Data Owner Country/Region": "Afghanistan",
+			"Data Owner Industry": "N/A",
+			"Website": "https://github.com/awslabs/open-data-docs/tree/main/docs/noaa/noaa-hrrr",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Sat, 06 Jan 2024 07:40:15 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Sat, 06 Jan 2024 07:40:15 GMT"
+		}
+	}
+}
