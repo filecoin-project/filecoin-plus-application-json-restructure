@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "sinergise",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "sinergise",
+			"Data Owner Country/Region": "Afghanistan",
+			"Data Owner Industry": "N/A",
+			"Website": "https://www.sinergise.com/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Tue, 20 Feb 2024 04:38:58 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Tue, 20 Feb 2024 04:38:58 GMT"
+		}
+	}
+}
