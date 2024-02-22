@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "FILDATA Co., Ltd.",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "FILDATA Co., Ltd.",
+			"Data Owner Country/Region": "South Korea",
+			"Data Owner Industry": "N/A",
+			"Website": "[https://theskyzone.net/](https://theskyzone.net/)",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 22 Feb 2024 05:20:38 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 22 Feb 2024 05:20:38 GMT"
+		}
+	}
+}
