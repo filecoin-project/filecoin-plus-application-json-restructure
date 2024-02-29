@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "NOAA-HRRR",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "NOAA-HRRR",
+			"Data Owner Country/Region": "United States",
+			"Data Owner Industry": "N/A",
+			"Website": "https://registry.opendata.aws/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 29 Feb 2024 07:19:12 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 29 Feb 2024 07:19:12 GMT"
+		}
+	}
+}
