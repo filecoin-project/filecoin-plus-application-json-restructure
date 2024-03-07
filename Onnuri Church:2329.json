@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "ldn-v3",
+	"Project Id": 0,
+	"Datacap Applicant": "Onnuri Church",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "Onnuri Church",
+			"Data Owner Country/Region": "Korea, Republic of",
+			"Data Owner Industry": "N/A",
+			"Website": "https://www.onnuri.org/",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 07 Mar 2024 05:45:58 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 07 Mar 2024 05:45:58 GMT"
+		}
+	}
+}
