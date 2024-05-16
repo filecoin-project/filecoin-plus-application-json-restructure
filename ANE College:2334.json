@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "e-fil",
+	"Project Id": 0,
+	"Datacap Applicant": "ANE College",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "ANE College",
+			"Data Owner Country/Region": "Australia",
+			"Data Owner Industry": "N/A",
+			"Website": "[https://ane.edu.au/](https://ane.edu.au/)",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Thu, 16 May 2024 06:01:19 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Thu, 16 May 2024 06:01:19 GMT"
+		}
+	}
+}
