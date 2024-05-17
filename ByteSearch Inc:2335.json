@@ -1,0 +1,21 @@
+{
+	"Datacap Application Type": "e-fil",
+	"Project Id": 0,
+	"Datacap Applicant": "ByteSearch Inc",
+	"Application Info": {
+		"Core Information": {
+			"Data Owner Name": "ByteSearch Inc",
+			"Data Owner Country/Region": "China",
+			"Data Owner Industry": "N/A",
+			"Website": "[https://1024ss.com](https://1024ss.com)",
+			"Social Media": "N/A"
+		},
+		"Datacap Allocations": [],
+		"Application Lifecycle": {
+			"Validated Time": "Fri, 17 May 2024 09:16:42 GMT",
+			"First Allocation Time": "0",
+			"Is Active": true,
+			"Time of New State": "Fri, 17 May 2024 09:16:42 GMT"
+		}
+	}
+}
